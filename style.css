@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: whitesmoke
+}
+
+h1 {
+    color: gold;
+}
+
+h2 {
+    color: orange;
+}
+
+button {
+    background-color: brown;
+    border: 0;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: gold;
+    padding: 10px 40px;
+}
+
+div {
+    background-color: rgb(20, 19, 19);
+    padding: 20px;
+    margin: 10px;
+}
+
+h3 {
+    color: whitesmoke;
+    text-transform: capitalize;
+}
+img {
+    max-width: 100%;
+}
+
+hr  {
+    margin: 50px;
+}
